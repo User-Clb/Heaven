@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="heaven" />
+    <version value="3.0.0" />
+    <list>
+        <mapping class="com.tomorrow.heaven.pojo.Province" />
+        <mapping class="com.tomorrow.heaven.pojo.City" />
+        <mapping class="com.tomorrow.heaven.pojo.County" />
+    </list>
+</litepal>
