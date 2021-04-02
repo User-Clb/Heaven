@@ -2,7 +2,7 @@ package com.tomorrow.heaven.pojo;
 
 import org.litepal.crud.LitePalSupport;
 
-class City extends LitePalSupport {
+public class City extends LitePalSupport {
     private int id;
     private String  cityName;
     private int cityCode;

@@ -3,7 +3,7 @@ package com.tomorrow.heaven.pojo;
 
 import org.litepal.crud.LitePalSupport;
 
-class Province extends LitePalSupport {
+public class Province extends LitePalSupport {
     private int id;
     private String provinceName;
     private int provinceCode;
